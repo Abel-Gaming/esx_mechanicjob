@@ -1,6 +1,11 @@
 Config                            = {}
 Config.Locale                     = 'en'
 
+--- MECHANIC TOOLS OPTIONS --
+Config.HoistHash = 1742634574
+Config.ToolboxHash = -573669520
+Config.CarLiftHash = 1420515116
+
 Config.DrawDistance               = 20.0 -- How close you need to be in order for the markers to be drawn (in GTA units).
 Config.MaxInService               = -1
 Config.EnablePlayerManagement     = true -- Enable society managing.

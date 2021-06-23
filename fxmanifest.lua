@@ -2,9 +2,9 @@ fx_version 'adamant'
 
 game 'gta5'
 
-description 'ESX Mechanic Job'
+description 'ESX Mechanic Job - Abel Gaming Update'
 
-version '1.1.0'
+version '1.0.0'
 
 client_scripts {
 	'@es_extended/locale.lua',
